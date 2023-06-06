@@ -20,7 +20,7 @@ function convertirEnMayusculas(cadena) {
       );
     }
   }
-}
+} 
 
 convertirEnMayusculas("www.techacademy.com");
 convertirEnMayusculas("El veredicto es el siguiente: No podemos hacernos cargo de sus juicios. Pero si de su sentencia.");
